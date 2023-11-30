@@ -1,0 +1,20 @@
+{
+  "name": "repoparadiscord",
+  "version": "1.0.0",
+  "description": "creando un repositorio para toda la comunidad",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "discord",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Galaxy-Dani",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
